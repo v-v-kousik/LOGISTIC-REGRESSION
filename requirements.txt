@@ -3,3 +3,7 @@ pandas
 numpy
 sk-learn
 scikit-learn
+
+
+# force rebuild
+Force Streamlit to reinstall dependencies
